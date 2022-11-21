@@ -6,7 +6,7 @@
 
 ## Imagen destacada del proyecto 
 
-![Diseñor de la imagen a dos columnas full resposive con formulario de contacto y chat](./images/full_descktop_gpstech_a-wp.png)
+![Diseñor de la imagen a dos columnas full resposive con formulario de contacto y chat](./images/logo y nombre .png)
 
 ***Live del proyecto [aqui](https://gpstech-alexander-wp.netlify.app/)***
 
